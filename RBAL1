@@ -1,5 +1,5 @@
 {
-  "name": "Klodjan Gogo",
+  "name": "Christian Canacaris",
   "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg",
   "area": "Corporate",
   "profileUrl": "http://example.com/employee/profile",
@@ -13,7 +13,7 @@
   "positionName": "Cheaf Executive Officer ",
   "children": [
     {
-      "name": "Kevin Meta",
+      "name": "Alexander Zsolnai",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "Corporate",
       "profileUrl": "http://example.com/employee/profile",
@@ -24,7 +24,7 @@
         "type": "business",
         "value": "Business one"
       },
-      "positionName": "CTO ",
+      "positionName": "Vice-chairman of the MB",
       "children": [
         {
           "name": " Kejdi Baku",
@@ -569,7 +569,7 @@
       ]
     },
     {
-      "name": " Leverling Janet",
+      "name": "Elona Mullahi (Koçi)",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
       "area": "Corporate",
       "profileUrl": "http://example.com/employee/profile",
@@ -580,7 +580,7 @@
         "type": "business",
         "value": "Business two "
       },
-      "positionName": "CTO ",
+      "positionName": "Board Member Corporate & SE",
       "children": [
         {
           "name": "Peter Wilson",
@@ -948,7 +948,7 @@
       ]
     },
     {
-      "name": " Leverling Janet",
+      "name": "Egon Lerchster",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
       "area": "Corporate",
       "profileUrl": "http://example.com/employee/profile",
@@ -959,7 +959,7 @@
         "type": "business",
         "value": "Business three"
       },
-      "positionName": "CTO ",
+      "positionName": "Board Member CIO/COO",
       "children": [
         {
           "name": "Peter Wilson",
@@ -995,7 +995,7 @@
       ]
     },
     {
-      "name": " Leverling Janet",
+      "name": "Lyubomir Punchev",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
       "area": "Corporate",
       "profileUrl": "http://example.com/employee/profile",
@@ -1006,7 +1006,7 @@
         "type": "business",
         "value": "Business four "
       },
-      "positionName": "CTO ",
+      "positionName": "Board Member Retail",
       "children": [
         {
           "name": "Peter Wilson",
