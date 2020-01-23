@@ -820,9 +820,9 @@
           "positionName": "IT Division",
           "children": [
             {
-              "name": " Lars Peterson",
+              "name": "Enterprise Architect",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-              "area": "Corporate",
+              "area": "Depertament",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
               "tags": "Ceo,tag1, tag2",
@@ -831,7 +831,49 @@
                 "type": "department",
                 "value": "Insurance  Department"
               },
-              "positionName": "Anakyst Developer"
+              "positionName": "Departament"
+            },
+            {
+              "name": "IT Governance and Demand Management",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Department",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Insurance  Department"
+              },
+              "positionName": " Department"
+            },
+            {
+              "name": "IT Operations ",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Departament",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Insurance  Department"
+              },
+              "positionName": "Departament"
+            },
+            {
+              "name": "Software Development ＆ Applications Managment",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Departament",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Insurance  Department"
+              },
+              "positionName": "Departament"
             }
           ]
         },
