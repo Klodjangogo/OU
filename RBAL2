@@ -1,0 +1,1059 @@
+{
+  "name": "Chief Executive Officer",
+  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+  "area": "Board Member",
+  "profileUrl": "http://example.com/employee/profile",
+  "office": "CTO office",
+  "tags": "CEO,Board Member",
+  "isLoggedUser": false,
+  "unit": {
+    "type": "business",
+    "value": "Business first"
+  },
+  "positionName": "Christian Canacaris ",
+  "children": [
+    {
+      "name": "Vice-chairman of the MB",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "MB",
+      "profileUrl": "http://example.com/employee/profile",
+      "office": "CEO office",
+      "tags": "Board Member",
+      "isLoggedUser": false,
+      "unit": {
+        "type": "business",
+        "value": "Business one"
+      },
+      "positionName": "Alexander Zsolnai",
+      "children": [
+        {
+          "name": " Kejdi Baku",
+          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+          "area": "Corporate",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "department",
+            "value": " Finance Department",
+            "desc": "Finance Dept description"
+          },
+          "positionName": "CTO ",
+          "children": [
+            {
+              "name": " Ina Hado",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+              "area": "Corporate",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Finance Department"
+              },
+              "positionName": "CTO ",
+              "children": [
+                {
+                  "name": "Peter Wilson",
+                  "isLoggedUser": false,
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "Corporate",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "unit": {
+                    "type": "department",
+                    "value": "Finance Department"
+                  },
+                  "positionName": "Head of channels",
+                  "children": [
+                    {
+                      "name": " Lars Peterson",
+                      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                      "area": "Corporate",
+                      "profileUrl": "http://example.com/employee/profile",
+                      "office": "CEO office",
+                      "tags": "Ceo,tag1, tag2",
+                      "isLoggedUser": false,
+                      "unit": {
+                        "type": "department",
+                        "value": "Finance Department"
+                      },
+                      "positionName": "Anakyst Developer"
+                    }
+                  ]
+                },
+                {
+                  "name": "Carlos Diaz",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "Corporate",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "isLoggedUser": false,
+                  "unit": {
+                    "type": "department",
+                    "value": "Finance Department"
+                  },
+                  "positionName": "Senior Android Developer",
+                  "children": [
+                    {
+                      "name": " Leverling Janet",
+                      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+                      "area": "Corporate",
+                      "profileUrl": "http://example.com/employee/profile",
+                      "office": "CEO office",
+                      "tags": "Ceo,tag1, tag2",
+                      "isLoggedUser": false,
+                      "unit": {
+                        "type": "department",
+                        "value": "Finance Department"
+                      },
+                      "positionName": "CTO ",
+                      "children": [
+                        {
+                          "name": " Leverling Janet",
+                          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+                          "area": "Corporate",
+                          "profileUrl": "http://example.com/employee/profile",
+                          "office": "CEO office",
+                          "tags": "Ceo,tag1, tag2",
+                          "isLoggedUser": false,
+                          "unit": {
+                            "type": "department",
+                            "value": "Finance Department"
+                          },
+                          "positionName": "CTO ",
+                          "children": [
+                            {
+                              "name": "Peter Wilson",
+                              "isLoggedUser": false,
+                              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                              "area": "Corporate",
+                              "profileUrl": "http://example.com/employee/profile",
+                              "office": "CEO office",
+                              "tags": "Ceo,tag1, tag2",
+                              "unit": {
+                                "type": "department",
+                                "value": "Finance Department"
+                              },
+                              "positionName": "Head of channels",
+                              "children": [
+                                {
+                                  "name": " Lars Peterson",
+                                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                  "area": "Corporate",
+                                  "profileUrl": "http://example.com/employee/profile",
+                                  "office": "CEO office",
+                                  "tags": "Ceo,tag1, tag2",
+                                  "isLoggedUser": false,
+                                  "unit": {
+                                    "type": "department",
+                                    "value": "Finance Department"
+                                  },
+                                  "positionName": "Anakyst Developer"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Carlos Diaz",
+                              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                              "area": "Corporate",
+                              "profileUrl": "http://example.com/employee/profile",
+                              "office": "CEO office",
+                              "tags": "Ceo,tag1, tag2",
+                              "isLoggedUser": false,
+                              "unit": {
+                                "type": "department",
+                                "value": "Finance Department"
+                              },
+                              "positionName": "Senior Android Developer",
+                              "children": [
+                                {
+                                  "name": " Petra Winkler",
+                                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                  "area": "Corporate",
+                                  "profileUrl": "http://example.com/employee/profile",
+                                  "office": "CEO office",
+                                  "tags": "Ceo,tag1, tag2",
+                                  "isLoggedUser": false,
+                                  "unit": {
+                                    "type": "department",
+                                    "value": "Finance Department"
+                                  },
+                                  "positionName": "Android Developer"
+                                },
+                                {
+                                  "name": "Martin Bein",
+                                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                  "area": "Corporate",
+                                  "profileUrl": "http://example.com/employee/profile",
+                                  "office": "CEO office",
+                                  "tags": "Ceo,tag1, tag2",
+                                  "isLoggedUser": false,
+                                  "unit": {
+                                    "type": "department",
+                                    "value": "Finance Department"
+                                  },
+                                  "positionName": "Ios Developer",
+                                  "size": 2023
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Sven Petersen",
+                              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                              "area": "Corporate",
+                              "profileUrl": "http://example.com/employee/profile",
+                              "office": "CEO office",
+                              "tags": "Ceo,tag1, tag2",
+                              "isLoggedUser": false,
+                              "unit": {
+                                "type": "department",
+                                "value": "Finance Department"
+                              },
+                              "positionName": "Senior Developer",
+                              "children": [
+                                {
+                                  "name": "Current User",
+                                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+                                  "area": "Corporate",
+                                  "profileUrl": "http://example.com/employee/profile",
+                                  "office": "CEO office",
+                                  "tags": "Ceo,tag1, tag2",
+                                  "isLoggedUser": false,
+                                  "unit": {
+                                    "type": "department",
+                                    "value": "Finance Department"
+                                  },
+                                  "positionName": "Web Developer"
+                                },
+                                {
+                                  "name": "Beate Vileid",
+                                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                  "area": "Corporate",
+                                  "profileUrl": "http://example.com/employee/profile",
+                                  "office": "CEO office",
+                                  "tags": "Ceo,tag1, tag2",
+                                  "isLoggedUser": false,
+                                  "unit": {
+                                    "type": "department",
+                                    "value": "Finance Department"
+                                  },
+                                  "positionName": "Junior Developer"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Peacock Margaret",
+                          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                          "area": "Corporate",
+                          "profileUrl": "http://example.com/employee/profile",
+                          "office": "CEO office",
+                          "tags": "Ceo,tag1, tag2",
+                          "isLoggedUser": false,
+                          "unit": {
+                            "type": "department",
+                            "value": "Finance Department"
+                          },
+                          "positionName": "CEO"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Sven Petersen",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "Corporate",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "isLoggedUser": false,
+                  "unit": {
+                    "type": "department",
+                    "value": "Finance Department"
+                  },
+                  "positionName": "Senior Developer",
+                  "children": [
+                    {
+                      "name": "Current User",
+                      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+                      "area": "Corporate",
+                      "profileUrl": "http://example.com/employee/profile",
+                      "office": "CEO office",
+                      "tags": "Ceo,tag1, tag2",
+                      "isLoggedUser": false,
+                      "unit": {
+                        "type": "department",
+                        "value": "Finance Department"
+                      },
+                      "positionName": "Web Developer"
+                    },
+                    {
+                      "name": "Beate Vileid",
+                      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                      "area": "Corporate",
+                      "profileUrl": "http://example.com/employee/profile",
+                      "office": "CEO office",
+                      "tags": "Ceo,tag1, tag2",
+                      "isLoggedUser": false,
+                      "unit": {
+                        "type": "department",
+                        "value": "Finance Department"
+                      },
+                      "positionName": "Junior Developer"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Suyama Michael",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Corporate",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Finance Department"
+              },
+              "positionName": "Senior sales manager"
+            },
+            {
+              "name": "Yoshi Nagase",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Corporate",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Finance Department"
+              },
+              "positionName": "Head of laboratory",
+              "children": [
+                {
+                  "name": "Valle Saavedra",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "Corporate",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "isLoggedUser": false,
+                  "unit": {
+                    "type": "department",
+                    "value": "Finance Department"
+                  },
+                  "positionName": "Junior Inovator"
+                },
+                {
+                  "name": "Regina Murphy",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "Corporate",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "isLoggedUser": false,
+                  "unit": {
+                    "type": "department",
+                    "value": "Finance Department"
+                  },
+                  "positionName": "Developer"
+                },
+                {
+                  "name": "Mayumi Ohno",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "Corporate",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "isLoggedUser": false,
+                  "unit": {
+                    "type": "department",
+                    "value": "Finance Department"
+                  },
+                  "positionName": "Senior developer"
+                },
+                {
+                  "name": "SizePalette",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "Corporate",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "isLoggedUser": false,
+                  "unit": {
+                    "type": "department",
+                    "value": "Finance Department"
+                  },
+                  "positionName": "System analyst"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Fuller Andrew",
+          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "Corporate",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "department",
+            "value": "Marketing Department",
+            "desc": "Marketing Department Description"
+          },
+          "positionName": "Linear Manager",
+          "children": [
+            {
+              "name": " Leverling Janet",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+              "area": "Corporate",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Marketing Department"
+              },
+              "positionName": "CTO ",
+              "children": [
+                {
+                  "name": "Peter Wilson",
+                  "isLoggedUser": false,
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "Corporate",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "unit": {
+                    "type": "department",
+                    "value": "Marketing Department"
+                  },
+                  "positionName": "Head of channels",
+                  "children": [
+                    {
+                      "name": " Lars Peterson",
+                      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                      "area": "Corporate",
+                      "profileUrl": "http://example.com/employee/profile",
+                      "office": "CEO office",
+                      "tags": "Ceo,tag1, tag2",
+                      "isLoggedUser": false,
+                      "unit": {
+                        "type": "department",
+                        "value": "Marketing Department"
+                      },
+                      "positionName": "Anakyst Developer"
+                    }
+                  ]
+                },
+                {
+                  "name": "Carlos Diaz",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "Corporate",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "isLoggedUser": false,
+                  "unit": {
+                    "type": "department",
+                    "value": "Marketing Department"
+                  },
+                  "positionName": "Senior Android Developer",
+                  "children": [
+                    {
+                      "name": " Petra Winkler",
+                      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                      "area": "Corporate",
+                      "profileUrl": "http://example.com/employee/profile",
+                      "office": "CEO office",
+                      "tags": "Ceo,tag1, tag2",
+                      "isLoggedUser": false,
+                      "unit": {
+                        "type": "department",
+                        "value": "Marketing Department"
+                      },
+                      "positionName": "Android Developer"
+                    },
+                    {
+                      "name": "Martin Bein",
+                      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                      "area": "Corporate",
+                      "profileUrl": "http://example.com/employee/profile",
+                      "office": "CEO office",
+                      "tags": "Ceo,tag1, tag2",
+                      "isLoggedUser": false,
+                      "unit": {
+                        "type": "department",
+                        "value": "Marketing Department"
+                      },
+                      "positionName": "Ios Developer",
+                      "size": 2023
+                    }
+                  ]
+                },
+                {
+                  "name": "Sven Petersen",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "Corporate",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "isLoggedUser": false,
+                  "unit": {
+                    "type": "department",
+                    "value": "Marketing Department"
+                  },
+                  "positionName": "Senior Developer",
+                  "children": [
+                    {
+                      "name": "Current User",
+                      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+                      "area": "Corporate",
+                      "profileUrl": "http://example.com/employee/profile",
+                      "office": "CEO office",
+                      "tags": "Ceo,tag1, tag2",
+                      "isLoggedUser": false,
+                      "unit": {
+                        "type": "department",
+                        "value": "Marketing Department"
+                      },
+                      "positionName": "Web Developer"
+                    },
+                    {
+                      "name": "Beate Vileid",
+                      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                      "area": "Corporate",
+                      "profileUrl": "http://example.com/employee/profile",
+                      "office": "CEO office",
+                      "tags": "Ceo,tag1, tag2",
+                      "isLoggedUser": false,
+                      "unit": {
+                        "type": "department",
+                        "value": "Marketing Department"
+                      },
+                      "positionName": "Junior Developer"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Buchanan Steven",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Corporate",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Marketing Department"
+              },
+              "positionName": "Head of direction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MB Corporate & SE",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "Corporate",
+      "profileUrl": "http://example.com/employee/profile",
+      "office": "Board Member",
+      "tags": "Board Member,Corporate & SE",
+      "isLoggedUser": false,
+      "unit": {
+        "type": "business",
+        "value": "Business two "
+      },
+      "positionName": "Elona Mullahi (Koçi)",
+      "children": [
+        {
+          "name": "Corporate & SE Products",
+          "isLoggedUser": false,
+          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "Department",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "CEO office",
+          "tags": "Corporate&SE Products Department",
+          "unit": {
+            "type": "department",
+            "value": "Purchases Department",
+            "desc": "Purchase Department Description"
+          },
+          "positionName": "Corporate&SE Products ",
+          "children": [
+            {
+              "name": "Cash Managemant ",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+              "area": "Department",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Purchases Department"
+              },
+              "positionName": "Department"
+            },
+            {
+              "name": "Corporate and SE Business ",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Development Unit",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Purchases Department"
+              },
+              "positionName": "Development Unit"
+            },
+            {
+              "name": "Project Finance&Agri-Financing ",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Unit",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Purchases Department"
+              },
+              "positionName": "Unit"
+            },
+            {
+              "name": "Trade Finance&Short Term Financing",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Unit",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Purchases Department"
+              },
+              "positionName": "Unit"
+            }
+          ]
+        },
+        {
+          "name": "Corporate Business",
+          "isLoggedUser": false,
+          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "Division",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "unit": {
+            "type": "department",
+            "value": "Purchases Department",
+            "desc": "Purchase Department Description"
+          },
+          "positionName": "Corporate Business Division",
+          "children": [
+            {
+              "name": "Domestic Corporate Banking",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+              "area": " Department",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Purchases Department"
+              },
+              "positionName": " Department"
+            },
+            {
+              "name": "International Corporate Banking",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Department",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Purchases Department"
+              },
+              "positionName": "Department"
+            },
+            {
+              "name": "Local&Central Government",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": " Unit",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Purchases Department"
+              },
+              "positionName": " Unit"
+            }
+          ]
+        },
+        {
+          "name": "Sales Management",
+          "isLoggedUser": false,
+          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "Department",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "unit": {
+            "type": "department",
+            "value": "Purchases Department",
+            "desc": "Purchase Department Description"
+          },
+          "positionName": "Department"
+        },
+        {
+          "name": "SE Business ",
+          "isLoggedUser": false,
+          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "Department",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "unit": {
+            "type": "department",
+            "value": "Purchases Department",
+            "desc": "Purchase Department Description"
+          },
+          "positionName": "SE Business Department",
+          "children": [
+            {
+              "name": "SE Area Manager North",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+              "area": "North",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Purchases Department"
+              },
+              "positionName": "North"
+            },
+            {
+              "name": "SE Area Manager South",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "South",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Purchases Department"
+              },
+              "positionName": "South"
+            },
+            {
+              "name": "SE Area Manager Tirana",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Tirana",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Purchases Department"
+              },
+              "positionName": "Tirana"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MB CIO/COO",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "Corporate",
+      "profileUrl": "http://example.com/employee/profile",
+      "office": "CIO/COO",
+      "tags": "CIO/COO,Board Member",
+      "isLoggedUser": false,
+      "unit": {
+        "type": "business",
+        "value": "Business three"
+      },
+      "positionName": "Egon Lerchster",
+      "children": [
+        {
+          "name": "IT Division",
+          "isLoggedUser": false,
+          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "Division",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "unit": {
+            "type": "department",
+            "value": "Insurance  Department",
+            "desc": "Insurance Department Description"
+          },
+          "positionName": "IT Division",
+          "children": [
+            {
+              "name": " Lars Peterson",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Corporate",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Insurance  Department"
+              },
+              "positionName": "Anakyst Developer"
+            }
+          ]
+        },
+        {
+          "name": "Operations Division",
+          "isLoggedUser": false,
+          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "Division",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "unit": {
+            "type": "department",
+            "value": "Insurance  Department",
+            "desc": "Insurance Department Description"
+          },
+          "positionName": "Operations Division",
+          "children": [
+            {
+              "name": " Lars Peterson",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Corporate",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Insurance  Department"
+              },
+              "positionName": "Anakyst Developer"
+            }
+          ]
+        },
+        {
+          "name": "OPPPCMD",
+          "isLoggedUser": false,
+          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "OPPPCMD",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "unit": {
+            "type": "department",
+            "value": "Insurance  Department",
+            "desc": "Insurance Department Description"
+          },
+          "positionName": "OPPPCMD",
+          "children": [
+            {
+              "name": " Lars Peterson",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Corporate",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Insurance  Department"
+              },
+              "positionName": "Anakyst Developer"
+            }
+          ]
+        },
+        {
+          "name": "Security Division",
+          "isLoggedUser": false,
+          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "Division",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "unit": {
+            "type": "department",
+            "value": "Insurance  Department",
+            "desc": "Insurance Department Description"
+          },
+          "positionName": "Security Division",
+          "children": [
+            {
+              "name": " Lars Peterson",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Corporate",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Insurance  Department"
+              },
+              "positionName": "Anakyst Developer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chief Executive Officer",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "Board Member",
+      "profileUrl": "http://example.com/employee/profile",
+      "office": "CIO/COO",
+      "tags": "CEO,Board Member",
+      "isLoggedUser": false,
+      "unit": {
+        "type": "business",
+        "value": "Business three"
+      },
+      "positionName": "Christian Canacaris ",
+      "children": [
+        {
+          "name": "Peter Wilson",
+          "isLoggedUser": false,
+          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "Corporate",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "unit": {
+            "type": "department",
+            "value": "Insurance  Department",
+            "desc": "Insurance Department Description"
+          },
+          "positionName": "Head of channels",
+          "children": [
+            {
+              "name": " Lars Peterson",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Corporate",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Insurance  Department"
+              },
+              "positionName": "Anakyst Developer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MB Retail",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "Retail",
+      "profileUrl": "http://example.com/employee/profile",
+      "office": "CEO office",
+      "tags": "Retail,Board Member",
+      "isLoggedUser": false,
+      "unit": {
+        "type": "business",
+        "value": "Business four "
+      },
+      "positionName": "Lyubomir Punchev",
+      "children": [
+        {
+          "name": "Peter Wilson",
+          "isLoggedUser": false,
+          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "Corporate",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "unit": {
+            "type": "department",
+            "value": "Staf",
+            "desc": "Staff Department Description"
+          },
+          "positionName": "Head of channels",
+          "children": [
+            {
+              "name": " Lars Peterson",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Corporate",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Staf"
+              },
+              "positionName": "Anakyst Developer"
+            }
+          ]
+        },
+        {
+          "name": "Sven Petersen",
+          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "Corporate",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "department",
+            "value": "Management Department",
+            "desc": "management Department Description"
+          },
+          "positionName": "Senior Developer",
+          "children": [
+            {
+              "name": "Current User",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+              "area": "Corporate",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Management Department"
+              },
+              "positionName": "Web Developer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
