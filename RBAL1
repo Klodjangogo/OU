@@ -1067,9 +1067,9 @@
           "positionName": "Security Division",
           "children": [
             {
-              "name": " Lars Peterson",
+              "name": "Information Security＆Business Continuity(CISO)",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-              "area": "Corporate",
+              "area": "Unit",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
               "tags": "Ceo,tag1, tag2",
@@ -1078,7 +1078,21 @@
                 "type": "department",
                 "value": "Insurance  Department"
               },
-              "positionName": "Anakyst Developer"
+              "positionName": "Unit"
+            },
+            {
+              "name": "Physical Security",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Departament",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Insurance  Department"
+              },
+              "positionName": "Departament"
             }
           ]
         }
