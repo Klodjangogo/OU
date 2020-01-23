@@ -1,6 +1,6 @@
 {
   "name": "Chief Executive Officer",
-  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg",
+  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
   "area": "Board Member",
   "profileUrl": "http://example.com/employee/profile",
   "office": "CTO office",
@@ -570,7 +570,7 @@
     },
     {
       "name": "MB Corporate & SE",
-      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "Corporate",
       "profileUrl": "http://example.com/employee/profile",
       "office": "Board Member",
@@ -949,7 +949,7 @@
     },
     {
       "name": "MB CIO/COO",
-      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "Corporate",
       "profileUrl": "http://example.com/employee/profile",
       "office": "CIO/COO",
@@ -996,7 +996,7 @@
     },
     {
       "name": "Chief Executive Officer",
-      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "Board Member",
       "profileUrl": "http://example.com/employee/profile",
       "office": "CIO/COO",
@@ -1043,7 +1043,7 @@
     },
     {
       "name": "MB Retail",
-      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "Retail",
       "profileUrl": "http://example.com/employee/profile",
       "office": "CEO office",
