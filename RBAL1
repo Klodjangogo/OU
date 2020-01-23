@@ -834,7 +834,7 @@
               "positionName": "Departament"
             },
             {
-              "name": "IT Governance and Demand Management",
+              "name": "IT Governance&Demand Management",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Department",
               "profileUrl": "http://example.com/employee/profile",
@@ -893,9 +893,9 @@
           "positionName": "Operations Division",
           "children": [
             {
-              "name": " Lars Peterson",
+              "name": " Card Operations",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-              "area": "Corporate",
+              "area": "Department",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
               "tags": "Ceo,tag1, tag2",
@@ -904,7 +904,63 @@
                 "type": "department",
                 "value": "Insurance  Department"
               },
-              "positionName": "Anakyst Developer"
+              "positionName": "Department"
+            },
+            {
+              "name": "Central Operations",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Department",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Insurance  Department"
+              },
+              "positionName": "Department"
+            },
+            {
+              "name": "Credit Administration ＆ Cash Managemant",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Department",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Insurance  Department"
+              },
+              "positionName": "Department"
+            },
+            {
+              "name": "General Services and Facility Management",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Departament",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Insurance  Department"
+              },
+              "positionName": "Departament"
+            },
+            {
+              "name": "Investigations, Reconciliations and LIM",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Departament",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Insurance  Department"
+              },
+              "positionName": "Departament"
             }
           ]
         },
