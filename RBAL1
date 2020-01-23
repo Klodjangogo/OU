@@ -569,7 +569,7 @@
       ]
     },
     {
-      "name": "Board Member Corporate & SE",
+      "name": "MB Corporate & SE",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
       "area": "Corporate",
       "profileUrl": "http://example.com/employee/profile",
@@ -948,7 +948,7 @@
       ]
     },
     {
-      "name": "Board Member CIO/COO",
+      "name": "MB CIO/COO",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
       "area": "Corporate",
       "profileUrl": "http://example.com/employee/profile",
@@ -995,7 +995,7 @@
       ]
     },
     {
-      "name": "Board Member Retail",
+      "name": "MB Retail",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
       "area": "Retail",
       "profileUrl": "http://example.com/employee/profile",
