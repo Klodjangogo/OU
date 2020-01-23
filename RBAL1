@@ -1,16 +1,16 @@
 {
-  "name": "Christian Canacaris",
+  "name": "Cheaf Executive Officer",
   "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg",
-  "area": "Corporate",
+  "area": "Board Member",
   "profileUrl": "http://example.com/employee/profile",
   "office": "CTO office",
-  "tags": "Ceo,tag1,manager,cto",
+  "tags": "CEO,Board Member",
   "isLoggedUser": false,
   "unit": {
     "type": "business",
     "value": "Business first"
   },
-  "positionName": "Cheaf Executive Officer ",
+  "positionName": "Christian Canacaris ",
   "children": [
     {
       "name": "Alexander Zsolnai",
