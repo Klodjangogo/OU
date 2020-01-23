@@ -707,37 +707,7 @@
                     "type": "department",
                     "value": "Marketing Department"
                   },
-                  "positionName": "Unit",
-                  "children": [
-                    {
-                      "name": "Current User",
-                      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
-                      "area": "Corporate",
-                      "profileUrl": "http://example.com/employee/profile",
-                      "office": "CEO office",
-                      "tags": "Ceo,tag1, tag2",
-                      "isLoggedUser": false,
-                      "unit": {
-                        "type": "department",
-                        "value": "Marketing Department"
-                      },
-                      "positionName": "Web Developer"
-                    },
-                    {
-                      "name": "Beate Vileid",
-                      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                      "area": "Corporate",
-                      "profileUrl": "http://example.com/employee/profile",
-                      "office": "CEO office",
-                      "tags": "Ceo,tag1, tag2",
-                      "isLoggedUser": false,
-                      "unit": {
-                        "type": "department",
-                        "value": "Marketing Department"
-                      },
-                      "positionName": "Junior Developer"
-                    }
-                  ]
+                  "positionName": "Unit"
                 }
               ]
             },
@@ -894,7 +864,7 @@
             {
               "name": "Cash Managemant ",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
-              "area": "Department",
+              "area": "Department Unit",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
               "tags": "Ceo,tag1, tag2",
@@ -903,7 +873,7 @@
                 "type": "department",
                 "value": "Purchases Department"
               },
-              "positionName": "Department"
+              "positionName": "Department Unit"
             },
             {
               "name": "Corporate and SE Business ",
@@ -1643,7 +1613,65 @@
                 "type": "department",
                 "value": "Management Department"
               },
-              "positionName": "Departament"
+              "positionName": "Departament",
+              "children": [
+                {
+                  "name": "Direct Sales",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+                  "area": "Unit",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "isLoggedUser": false,
+                  "unit": {
+                    "type": "department",
+                    "value": "Management Department"
+                  },
+                  "positionName": "Unit"
+                },
+                {
+                  "name": "Micro",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+                  "area": "Unit",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "isLoggedUser": false,
+                  "unit": {
+                    "type": "department",
+                    "value": "Management Department"
+                  },
+                  "positionName": "Unit"
+                },
+                {
+                  "name": "POS Sales",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+                  "area": "Unit",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "isLoggedUser": false,
+                  "unit": {
+                    "type": "department",
+                    "value": "Management Department"
+                  },
+                  "positionName": "Unit"
+                },
+                {
+                  "name": "RSF Sales",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+                  "area": "Unit",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "isLoggedUser": false,
+                  "unit": {
+                    "type": "department",
+                    "value": "Management Department"
+                  },
+                  "positionName": "Unit"
+                }
+              ]
             },
             {
               "name": "District Managers",
@@ -1671,7 +1699,51 @@
                 "type": "department",
                 "value": "Management Department"
               },
-              "positionName": "Departament"
+              "positionName": "Departament",
+              "children": [
+                {
+                  "name": "Branch Support ＆ Sales Reporting Analysis",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+                  "area": "Unit",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "isLoggedUser": false,
+                  "unit": {
+                    "type": "department",
+                    "value": "Management Department"
+                  },
+                  "positionName": "Unit"
+                },
+                {
+                  "name": "Quality Control",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+                  "area": "Unit",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "isLoggedUser": false,
+                  "unit": {
+                    "type": "department",
+                    "value": "Management Department"
+                  },
+                  "positionName": "Unit"
+                },
+                {
+                  "name": "Retail KYC ＆ Branch Development",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+                  "area": "Unit",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "isLoggedUser": false,
+                  "unit": {
+                    "type": "department",
+                    "value": "Management Department"
+                  },
+                  "positionName": "Unit"
+                }
+              ]
             },
             {
               "name": "Sales Force Effectiveness",
