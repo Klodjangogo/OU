@@ -13,18 +13,18 @@
   "positionName": "Christian Canacaris ",
   "children": [
     {
-      "name": "Alexander Zsolnai",
+      "name": "Vice-chairman of the MB",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "Corporate",
+      "area": "MB",
       "profileUrl": "http://example.com/employee/profile",
       "office": "CEO office",
-      "tags": "Ceo,tag1, tag2",
+      "tags": "Board Member",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
         "value": "Business one"
       },
-      "positionName": "Vice-chairman of the MB",
+      "positionName": "Alexander Zsolnai",
       "children": [
         {
           "name": " Kejdi Baku",
@@ -569,18 +569,18 @@
       ]
     },
     {
-      "name": "Elona Mullahi (Koçi)",
+      "name": "Board Member Corporate & SE",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
       "area": "Corporate",
       "profileUrl": "http://example.com/employee/profile",
-      "office": "CEO office",
-      "tags": "Ceo,tag1, tag2",
+      "office": "Board Member",
+      "tags": "Board Member,Corporate & SE",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
         "value": "Business two "
       },
-      "positionName": "Board Member Corporate & SE",
+      "positionName": "Elona Mullahi (Koçi)Board Member Corporate & SE",
       "children": [
         {
           "name": "Peter Wilson",
@@ -948,18 +948,18 @@
       ]
     },
     {
-      "name": "Egon Lerchster",
+      "name": "Board Member CIO/COO",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
       "area": "Corporate",
       "profileUrl": "http://example.com/employee/profile",
-      "office": "CEO office",
-      "tags": "Ceo,tag1, tag2",
+      "office": "CIO/COO",
+      "tags": "CIO/COO,Board Member",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
         "value": "Business three"
       },
-      "positionName": "Board Member CIO/COO",
+      "positionName": "Egon Lerchster",
       "children": [
         {
           "name": "Peter Wilson",
@@ -995,18 +995,18 @@
       ]
     },
     {
-      "name": "Lyubomir Punchev",
+      "name": "Board Member Retail",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
-      "area": "Corporate",
+      "area": "Retail",
       "profileUrl": "http://example.com/employee/profile",
       "office": "CEO office",
-      "tags": "Ceo,tag1, tag2",
+      "tags": "Retail,Board Member",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
         "value": "Business four "
       },
-      "positionName": "Board Member Retail",
+      "positionName": "Lyubomir Punchev",
       "children": [
         {
           "name": "Peter Wilson",
