@@ -1109,7 +1109,37 @@
                 "type": "department",
                 "value": "Insurance  Department"
               },
-              "positionName": " Department"
+              "positionName": " Department",
+              "children": [
+                {
+                  "name": "IT Demand Management",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "Unit",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "isLoggedUser": false,
+                  "unit": {
+                    "type": "department",
+                    "value": "Insurance  Department"
+                  },
+                  "positionName": "Unit"
+                },
+                {
+                  "name": "IT Governance",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "Unit",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "isLoggedUser": false,
+                  "unit": {
+                    "type": "department",
+                    "value": "Insurance  Department"
+                  },
+                  "positionName": " Unit"
+                }
+              ]
             },
             {
               "name": "IT Operations ",
@@ -1123,7 +1153,81 @@
                 "type": "department",
                 "value": "Insurance  Department"
               },
-              "positionName": "Departament"
+              "positionName": "Departament",
+              "children": [
+                {
+                  "name": "Communications",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "Unit",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "isLoggedUser": false,
+                  "unit": {
+                    "type": "department",
+                    "value": "Insurance  Department"
+                  },
+                  "positionName": "Unit"
+                },
+                {
+                  "name": "Database Support ＆ Service",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "Unit",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "isLoggedUser": false,
+                  "unit": {
+                    "type": "department",
+                    "value": "Insurance  Department"
+                  },
+                  "positionName": "Unit"
+                },
+                {
+                  "name": "Infrastructure ＆ Middleware Services",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "Unit",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "isLoggedUser": false,
+                  "unit": {
+                    "type": "department",
+                    "value": "Insurance  Department"
+                  },
+                  "positionName": "Unit",
+                  "children": [
+                    {
+                      "name": "KAPO",
+                      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                      "area": "KAPO",
+                      "profileUrl": "http://example.com/employee/profile",
+                      "office": "CEO office",
+                      "tags": "Ceo,tag1, tag2",
+                      "isLoggedUser": false,
+                      "unit": {
+                        "type": "department",
+                        "value": "Insurance  Department"
+                      },
+                      "positionName": "KAPO"
+                    }
+                  ]
+                },
+                {
+                  "name": "Service Center",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "Unit",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "isLoggedUser": false,
+                  "unit": {
+                    "type": "department",
+                    "value": "Insurance  Department"
+                  },
+                  "positionName": " Unit"
+                }
+              ]
             },
             {
               "name": "Software Development ＆ Applications Managment",
