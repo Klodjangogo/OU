@@ -980,9 +980,9 @@
           "positionName": "OPPPCMD",
           "children": [
             {
-              "name": " Lars Peterson",
+              "name": "Organization",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-              "area": "Corporate",
+              "area": "Departament",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
               "tags": "Ceo,tag1, tag2",
@@ -991,7 +991,63 @@
                 "type": "department",
                 "value": "Insurance  Department"
               },
-              "positionName": "Anakyst Developer"
+              "positionName": "Departament"
+            },
+            {
+              "name": "Process Management",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Department",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Insurance  Department"
+              },
+              "positionName": "Department"
+            },
+            {
+              "name": "Procurement",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Departament",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Insurance  Department"
+              },
+              "positionName": "Departament"
+            },
+            {
+              "name": "Project ＆ Cost Management",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Departament",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Insurance  Department"
+              },
+              "positionName": "Departament"
+            },
+            {
+              "name": "Senior Change Partner",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Departament",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Insurance  Department"
+              },
+              "positionName": "Departament"
             }
           ]
         },
