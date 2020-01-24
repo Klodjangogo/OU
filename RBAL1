@@ -1,7 +1,7 @@
 {
   "name": "Raiffeisen Bank Albania",
   "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-  "area": "Organization Structure",
+  "area": "Organizational Structure",
   "profileUrl": "http://example.com/employee/profile",
   "office": "",
   "tags": "Organizational, Structure",
@@ -621,7 +621,7 @@
       "children": [
         {
           "name": "Corporate and SE Risk ",
-          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "Department",
           "profileUrl": "http://example.com/employee/profile",
           "office": "CEO office",
@@ -636,7 +636,7 @@
           "children": [
             {
               "name": "Corporate Underwriting",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Unit",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
@@ -752,7 +752,7 @@
         },
         {
           "name": "EWS ＆ Credit Controlling",
-          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "Department",
           "profileUrl": "http://example.com/employee/profile",
           "office": "CEO office",
@@ -767,7 +767,7 @@
           "children": [
             {
               "name": "Credit Controlling",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Unit",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
@@ -826,7 +826,7 @@
           "children": [
             {
               "name": "Accounting ＆ Reporting",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Department",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
@@ -870,7 +870,7 @@
             },
             {
               "name": "Business Intelligence ＆ MIS",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Departament",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
@@ -914,7 +914,7 @@
             },
             {
               "name": "Controlling",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Departament",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
@@ -1366,7 +1366,7 @@
         },
         {
           "name": "Workout ",
-          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "Department",
           "profileUrl": "http://example.com/employee/profile",
           "office": "CEO office",
@@ -1381,7 +1381,7 @@
           "children": [
             {
               "name": "Early Workout",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Unit",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
@@ -1456,7 +1456,7 @@
           "children": [
             {
               "name": "Cash Managemant ",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Department Unit",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
@@ -1529,7 +1529,7 @@
           "children": [
             {
               "name": "Domestic Corporate Banking",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": " Department",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
@@ -1603,7 +1603,7 @@
           "children": [
             {
               "name": "SE Area Manager North",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "North",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
@@ -2513,7 +2513,7 @@
           "children": [
             {
               "name": "Contact Center",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Unit",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
@@ -2527,7 +2527,7 @@
             },
             {
               "name": "Customer Relationship Management (CRM)",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Unit",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
@@ -2541,7 +2541,7 @@
             },
             {
               "name": "Service Management",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Unit",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
@@ -2572,7 +2572,7 @@
           "children": [
             {
               "name": "Liability Products",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Unit",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
@@ -2586,7 +2586,7 @@
             },
             {
               "name": "Retail Lion Products",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Unit",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
@@ -2600,7 +2600,7 @@
             },
             {
               "name": "Retail Segments",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Unit",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
@@ -2631,7 +2631,7 @@
           "children": [
             {
               "name": "Direct Sales ＆ Relationship",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Departament",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
@@ -2645,7 +2645,7 @@
               "children": [
                 {
                   "name": "Direct Sales",
-                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                   "area": "Unit",
                   "profileUrl": "http://example.com/employee/profile",
                   "office": "CEO office",
@@ -2659,7 +2659,7 @@
                 },
                 {
                   "name": "Micro",
-                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                   "area": "Unit",
                   "profileUrl": "http://example.com/employee/profile",
                   "office": "CEO office",
@@ -2673,7 +2673,7 @@
                 },
                 {
                   "name": "POS Sales",
-                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                   "area": "Unit",
                   "profileUrl": "http://example.com/employee/profile",
                   "office": "CEO office",
@@ -2687,7 +2687,7 @@
                 },
                 {
                   "name": "RSF Sales",
-                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                   "area": "Unit",
                   "profileUrl": "http://example.com/employee/profile",
                   "office": "CEO office",
@@ -2703,7 +2703,7 @@
             },
             {
               "name": "District Managers",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Departament",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
@@ -2717,7 +2717,7 @@
             },
             {
               "name": "Network Quality ＆ Support",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Departament",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
@@ -2731,7 +2731,7 @@
               "children": [
                 {
                   "name": "Branch Support ＆ Sales Reporting Analysis",
-                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                   "area": "Unit",
                   "profileUrl": "http://example.com/employee/profile",
                   "office": "CEO office",
@@ -2745,7 +2745,7 @@
                 },
                 {
                   "name": "Quality Control",
-                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                   "area": "Unit",
                   "profileUrl": "http://example.com/employee/profile",
                   "office": "CEO office",
@@ -2759,7 +2759,7 @@
                 },
                 {
                   "name": "Retail KYC ＆ Branch Development",
-                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                   "area": "Unit",
                   "profileUrl": "http://example.com/employee/profile",
                   "office": "CEO office",
@@ -2775,7 +2775,7 @@
             },
             {
               "name": "Sales Force Effectiveness",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Unit",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
