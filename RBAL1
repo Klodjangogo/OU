@@ -688,65 +688,7 @@
                 "type": "department",
                 "value": "Finance Department"
               },
-              "positionName": "Unit",
-              "children": [
-                {
-                  "name": "Valle Saavedra",
-                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                  "area": "Corporate",
-                  "profileUrl": "http://example.com/employee/profile",
-                  "office": "CEO office",
-                  "tags": "Ceo,tag1, tag2",
-                  "isLoggedUser": false,
-                  "unit": {
-                    "type": "department",
-                    "value": "Finance Department"
-                  },
-                  "positionName": "Junior Inovator"
-                },
-                {
-                  "name": "Regina Murphy",
-                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                  "area": "Corporate",
-                  "profileUrl": "http://example.com/employee/profile",
-                  "office": "CEO office",
-                  "tags": "Ceo,tag1, tag2",
-                  "isLoggedUser": false,
-                  "unit": {
-                    "type": "department",
-                    "value": "Finance Department"
-                  },
-                  "positionName": "Developer"
-                },
-                {
-                  "name": "Mayumi Ohno",
-                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                  "area": "Corporate",
-                  "profileUrl": "http://example.com/employee/profile",
-                  "office": "CEO office",
-                  "tags": "Ceo,tag1, tag2",
-                  "isLoggedUser": false,
-                  "unit": {
-                    "type": "department",
-                    "value": "Finance Department"
-                  },
-                  "positionName": "Senior developer"
-                },
-                {
-                  "name": "SizePalette",
-                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                  "area": "Corporate",
-                  "profileUrl": "http://example.com/employee/profile",
-                  "office": "CEO office",
-                  "tags": "Ceo,tag1, tag2",
-                  "isLoggedUser": false,
-                  "unit": {
-                    "type": "department",
-                    "value": "Finance Department"
-                  },
-                  "positionName": "System analyst"
-                }
-              ]
+              "positionName": "Unit"
             }
           ]
         },
@@ -1045,7 +987,7 @@
             },
             {
               "name": "Reporting, Provisioning, RWA ＆ ICAAP Managment",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Departament",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
@@ -1106,7 +1048,7 @@
           "children": [
             {
               "name": " Methodology ＆ Assesment, Risk Reporting and System Infrastructure",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Departament",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
@@ -1178,7 +1120,7 @@
             },
             {
               "name": "Retail Collection",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Departament",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
@@ -1306,7 +1248,7 @@
             },
             {
               "name": "Retail Underwriting ＆ Strategic Managment",
-              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Departament",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
