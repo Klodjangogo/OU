@@ -31,7 +31,7 @@
           "isLoggedUser": false,
           "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "Departament",
-          "profileUrl": "http://example.com/employee/profile",
+          "profileUrl": "http://tmp-iis4/itops/",
           "office": "CEO office",
           "tags": "Ceo,tag1, tag2",
           "unit": {
