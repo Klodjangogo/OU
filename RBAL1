@@ -16,7 +16,6 @@
       "name": "Chief Executive Officer",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "Board Member",
-      "profileUrl": "http://example.com/employee/profile",
       "office": "CIO/COO",
       "tags": "CEO,Board Member",
       "isLoggedUser": false,
@@ -28,12 +27,12 @@
       "children": [
         {
           "name": "ALCO, Research and Analyses",
-          "isLoggedUser": false,
           "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "Departament",
           "profileUrl": "http://tmp-iis4/itops/",
           "office": "CEO office",
           "tags": "Ceo,tag1, tag2",
+          "isLoggedUser": false,
           "unit": {
             "type": "department",
             "value": "Insurance  Department",
@@ -73,12 +72,12 @@
         },
         {
           "name": "Compliance, AML and FCM",
-          "isLoggedUser": false,
           "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "Departament",
           "profileUrl": "http://example.com/employee/profile",
           "office": "CEO office",
           "tags": "Ceo,tag1, tag2",
+          "isLoggedUser": false,
           "unit": {
             "type": "department",
             "value": "Insurance  Department",
@@ -603,7 +602,8 @@
             }
           ]
         }
-      ]
+      ],
+      "profileUrl": "http://example.com/employee/profile"
     },
     {
       "name": "Vice-chairman of the MB",
@@ -621,12 +621,12 @@
       "children": [
         {
           "name": "Corporate and SE Risk ",
+          "isLoggedUser": false,
           "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "Department",
           "profileUrl": "http://example.com/employee/profile",
           "office": "CEO office",
           "tags": "Ceo,tag1, tag2",
-          "isLoggedUser": false,
           "unit": {
             "type": "department",
             "value": " Finance Department",
@@ -694,12 +694,12 @@
         },
         {
           "name": "EWS ＆ Credit Controlling",
+          "isLoggedUser": false,
           "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "Department",
           "profileUrl": "http://example.com/employee/profile",
           "office": "CEO office",
           "tags": "Ceo,tag1, tag2",
-          "isLoggedUser": false,
           "unit": {
             "type": "department",
             "value": " Finance Department",
@@ -753,12 +753,12 @@
         },
         {
           "name": "Finance",
+          "isLoggedUser": false,
           "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "Division",
           "profileUrl": "http://example.com/employee/profile",
           "office": "CEO office",
           "tags": "Ceo,tag1, tag2",
-          "isLoggedUser": false,
           "unit": {
             "type": "department",
             "value": "Marketing Department",
@@ -916,12 +916,12 @@
         },
         {
           "name": "Integrated Risk",
+          "isLoggedUser": false,
           "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "Division",
           "profileUrl": "http://example.com/employee/profile",
           "office": "CEO office",
           "tags": "Ceo,tag1, tag2",
-          "isLoggedUser": false,
           "unit": {
             "type": "department",
             "value": "Marketing Department",
@@ -1680,7 +1680,7 @@
               "name": "IT Operations ",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Departament",
-              "profileUrl": "http://example.com/employee/profile",
+              "profileUrl": "http://tmp-iis4:8974/Dep/IT%20Operations.htm",
               "office": "CEO office",
               "tags": "Ceo,tag1, tag2",
               "isLoggedUser": false,
