@@ -2,13 +2,13 @@
   "name": "Raiffeisen Bank Albania",
   "imageUrl": "http://tmp-iis4:8974/img/rbal.png",
   "area": "Organizational Structure",
-  "profileUrl": "http://example.com/employee/profile",
+  "profileUrl": "https://rbinternational.sharepoint.com/sites/RBAL-IPR/",
   "office": "",
   "tags": "Organizational, Structure",
   "isLoggedUser": false,
   "unit": {
     "type": "business",
-    "value": "Business first"
+    "value": "Raiffeisen Bank Albania"
   },
   "positionName": "RBAL",
   "children": [
@@ -21,7 +21,7 @@
       "isLoggedUser": false,
       "unit": {
         "type": "business",
-        "value": "Business three"
+        "value": "Board Memebr"
       },
       "positionName": "Christian Canacaris ",
       "children": [
@@ -247,7 +247,7 @@
           ]
         },
         {
-          "name": "Executive Secretariat ＆ Participations Mangement",
+          "name": "Executive Secretariat ＆ Participations  Mangement",
           "isLoggedUser": false,
           "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "Unit",
@@ -255,7 +255,7 @@
           "office": "CEO office",
           "tags": "Ceo,tag1, tag2",
           "unit": {
-            "type": "department",
+            "type": "",
             "value": "Insurance  Department",
             "desc": "Insurance Department Description"
           },
