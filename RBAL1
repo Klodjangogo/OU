@@ -3,18 +3,17 @@
   "imageUrl": "http://tmp-iis4:8974/img/rbal.png",
   "area": "Organizational Structure",
   "profileUrl": "https://rbinternational.sharepoint.com/sites/RBAL-IPR/",
-  "office": "",
+  "office": "All Bank",
   "tags": "Organizational, Structure",
   "isLoggedUser": false,
   "unit": {
-    "type": "business",
+    "type": "Business",
     "value": "Raiffeisen Bank Albania"
   },
   "positionName": "RBAL",
   "children": [
     {
       "name": "Chief Executive Officer",
-      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "Board Member",
       "office": "CIO/COO",
       "tags": "CEO,Board Member",
@@ -603,6 +602,7 @@
           ]
         }
       ],
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "profileUrl": "http://example.com/employee/profile"
     },
     {
@@ -1592,14 +1592,14 @@
     {
       "name": "MB CIO/COO",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "Corporate",
+      "area": "Operations & IT",
       "profileUrl": "http://example.com/employee/profile",
       "office": "CIO/COO",
-      "tags": "CIO/COO,Board Member",
+      "tags": "CIO/COO, Board Member",
       "isLoggedUser": false,
       "unit": {
-        "type": "business",
-        "value": "Business three"
+        "type": "Board Area",
+        "value": "B-Level"
       },
       "positionName": "Egon Lerchster",
       "children": [
@@ -1609,12 +1609,12 @@
           "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "Division",
           "profileUrl": "http://tmp-iis4:8974/Dep/IT%20Operations.htm",
-          "office": "CEO office",
-          "tags": "Ceo,tag1, tag2",
+          "office": "COO/CIO Office",
+          "tags": "COO/CIO,IT,Structure",
           "unit": {
-            "type": "department",
-            "value": "Insurance  Department",
-            "desc": "Insurance Department Description"
+            "type": "Division",
+            "value": "B-1",
+            "desc": ""
           },
           "positionName": "IT Division",
           "children": [
@@ -1680,13 +1680,13 @@
               "name": "IT Operations ",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Departament",
-              "profileUrl": "http://tmp-iis4:8974/Dep/IT%20Operations.htm",
-              "office": "CEO office",
-              "tags": "Ceo,tag1, tag2",
+              "profileUrl": "https://rbinternational.sharepoint.com/sites/RBAL-IPR/SitePages/IT-Operations.aspx",
+              "office": "COO/CIO",
+              "tags": "COO/CIO,IT, Departmen,",
               "isLoggedUser": false,
               "unit": {
-                "type": "department",
-                "value": "Insurance  Department"
+                "type": "Department",
+                "value": "B-2"
               },
               "positionName": "Departament",
               "children": [
