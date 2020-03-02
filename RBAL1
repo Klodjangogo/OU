@@ -27,7 +27,7 @@
         {
           "name": "ALCO, Research and Analyses",
           "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-          "area": "Departament",
+          "area": "Department",
           "profileUrl": "http://tmp-iis4/itops/",
           "office": "CEO office",
           "tags": "Ceo,tag1, tag2",
@@ -37,12 +37,12 @@
             "value": "Insurance  Department",
             "desc": "Insurance Department Description"
           },
-          "positionName": "Departament",
+          "positionName": "B-1",
           "children": [
             {
               "name": "ALCO",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-              "area": "Unit",
+              "area": "B-2",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
               "tags": "Ceo,tag1, tag2",
@@ -56,7 +56,7 @@
             {
               "name": "Research ＆ Analysis",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-              "area": "Unit",
+              "area": "B-2",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
               "tags": "Ceo,tag1, tag2",
@@ -72,7 +72,7 @@
         {
           "name": "Compliance, AML and FCM",
           "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-          "area": "Departament",
+          "area": "B-1",
           "profileUrl": "http://example.com/employee/profile",
           "office": "CEO office",
           "tags": "Ceo,tag1, tag2",
@@ -82,12 +82,12 @@
             "value": "Insurance  Department",
             "desc": "Insurance Department Description"
           },
-          "positionName": "Departament",
+          "positionName": "Division",
           "children": [
             {
               "name": "AML ＆ FSC",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-              "area": "Unit",
+              "area": "B-2",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
               "tags": "Ceo,tag1, tag2",
@@ -96,12 +96,12 @@
                 "type": "department",
                 "value": "Insurance  Department"
               },
-              "positionName": "Unit"
+              "positionName": "Team"
             },
             {
               "name": "Compliance Programs ＆ Control",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-              "area": "Unit",
+              "area": "B-2",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
               "tags": "Ceo,tag1, tag2",
@@ -115,7 +115,7 @@
             {
               "name": "Financial Crime Management",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-              "area": "Departament",
+              "area": "B-2",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
               "tags": "Ceo,tag1, tag2",
@@ -124,12 +124,12 @@
                 "type": "department",
                 "value": "Insurance  Department"
               },
-              "positionName": "Departament",
+              "positionName": "Department",
               "children": [
                 {
                   "name": "ABC",
                   "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                  "area": "Unit",
+                  "area": "B-3",
                   "profileUrl": "http://example.com/employee/profile",
                   "office": "CEO office",
                   "tags": "Ceo,tag1, tag2",
@@ -138,12 +138,12 @@
                     "type": "department",
                     "value": "Insurance  Department"
                   },
-                  "positionName": "Unit"
+                  "positionName": "Function"
                 },
                 {
                   "name": "Fraud Risk Management",
                   "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                  "area": "Unit",
+                  "area": "B-3",
                   "profileUrl": "http://example.com/employee/profile",
                   "office": "CEO office",
                   "tags": "Ceo,tag1, tag2",
@@ -152,12 +152,12 @@
                     "type": "department",
                     "value": "Insurance  Department"
                   },
-                  "positionName": "Unit"
+                  "positionName": "Team"
                 },
                 {
                   "name": "Investigation",
                   "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                  "area": "Unit",
+                  "area": "B-3",
                   "profileUrl": "http://example.com/employee/profile",
                   "office": "CEO office",
                   "tags": "Ceo,tag1, tag2",
@@ -166,14 +166,14 @@
                     "type": "department",
                     "value": "Insurance  Department"
                   },
-                  "positionName": "Unit"
+                  "positionName": "Function"
                 }
               ]
             },
             {
               "name": "Infrastructure ＆ Reporting",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-              "area": "Unit",
+              "area": "B-2",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
               "tags": "Ceo,tag1, tag2",
@@ -182,7 +182,7 @@
                 "type": "department",
                 "value": "Insurance  Department"
               },
-              "positionName": "Unit"
+              "positionName": "Function"
             }
           ]
         },
@@ -190,7 +190,7 @@
           "name": "Dealing Room Department",
           "isLoggedUser": false,
           "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-          "area": "Departament",
+          "area": "B-1",
           "profileUrl": "http://example.com/employee/profile",
           "office": "CEO office",
           "tags": "Ceo,tag1, tag2",
@@ -199,12 +199,12 @@
             "value": "Insurance  Department",
             "desc": "Insurance Department Description"
           },
-          "positionName": "Departament",
+          "positionName": "Department",
           "children": [
             {
               "name": "Fixed Income",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-              "area": "Unit",
+              "area": "B-2",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
               "tags": "Ceo,tag1, tag2",
@@ -218,7 +218,7 @@
             {
               "name": "FX ＆ Cash Desk",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-              "area": "Unit",
+              "area": "B-2",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
               "tags": "Ceo,tag1, tag2",
@@ -227,12 +227,12 @@
                 "type": "department",
                 "value": "Insurance  Department"
               },
-              "positionName": "Unit"
+              "positionName": "Function"
             },
             {
               "name": "Money Market Desk",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-              "area": "Unit",
+              "area": "B-2",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
               "tags": "Ceo,tag1, tag2",
@@ -241,7 +241,7 @@
                 "type": "department",
                 "value": "Insurance  Department"
               },
-              "positionName": "Unit"
+              "positionName": "Function"
             }
           ]
         },
@@ -249,7 +249,7 @@
           "name": "Executive Secretariat ＆ Participations  Mangement",
           "isLoggedUser": false,
           "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-          "area": "Unit",
+          "area": "B-1",
           "profileUrl": "http://example.com/employee/profile",
           "office": "CEO office",
           "tags": "Ceo,tag1, tag2",
@@ -258,13 +258,13 @@
             "value": "Insurance  Department",
             "desc": "Insurance Department Description"
           },
-          "positionName": "Unit"
+          "positionName": "Department"
         },
         {
           "name": "Human Resources",
           "isLoggedUser": false,
           "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-          "area": "Division",
+          "area": "B-1",
           "profileUrl": "http://example.com/employee/profile",
           "office": "CEO office",
           "tags": "Ceo,tag1, tag2",
@@ -278,7 +278,7 @@
             {
               "name": "Employee relations ＆ Compensation",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-              "area": " Department",
+              "area": "B-2",
               "profileUrl": "http://example.com/employee/profile",
               "office": "CEO office",
               "tags": "Ceo,tag1, tag2",
