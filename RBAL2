@@ -14,6 +14,7 @@
   "children": [
     {
       "name": "Chief Executive Officer",
+      "area": "Board Member",
       "office": "CIO/COO",
       "tags": "CEO,Board Member",
       "isLoggedUser": false,
