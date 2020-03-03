@@ -14,6 +14,7 @@
   "children": [
     {
       "name": "Chief Executive Officer",
+      "tags": "CEO,Board Member",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
