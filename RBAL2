@@ -15,13 +15,6 @@
     {
       "name": "Chief Executive Officer",
       "area": "Board Member",
-      "office": "CIO/COO",
-      "tags": "CEO,Board Member",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "business",
-        "value": "Board Memebr"
-      },
       "positionName": "Christian Canacaris ",
       "children": [
         {
@@ -608,15 +601,8 @@
     {
       "name": "Vice-chairman of the MB",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "MB",
       "profileUrl": "http://example.com/employee/profile",
       "office": "CEO office",
-      "tags": "Board Member",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "business",
-        "value": "Business one"
-      },
       "positionName": "Alexander Zsolnai",
       "children": [
         {
@@ -1370,15 +1356,8 @@
     {
       "name": "MB Corporate & SE",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "Corporate",
       "profileUrl": "http://example.com/employee/profile",
-      "office": "Board Member",
       "tags": "Board Member,Corporate & SE",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "business",
-        "value": "Business two "
-      },
       "positionName": "Elona Mullahi (Koçi)",
       "children": [
         {
@@ -1592,15 +1571,8 @@
     {
       "name": "MB CIO/COO",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "Operations & IT",
       "profileUrl": "http://example.com/employee/profile",
-      "office": "CIO/COO",
-      "tags": "CIO/COO, Board Member",
       "isLoggedUser": false,
-      "unit": {
-        "type": "Board Area",
-        "value": "B-Level"
-      },
       "positionName": "Egon Lerchster",
       "children": [
         {
@@ -2382,11 +2354,7 @@
     {
       "name": "MB Retail",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "Retail",
       "profileUrl": "http://example.com/employee/profile",
-      "office": "CEO office",
-      "tags": "Retail,Board Member",
-      "isLoggedUser": false,
       "unit": {
         "type": "business",
         "value": "Business four "
