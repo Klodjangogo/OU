@@ -14,7 +14,6 @@
   "children": [
     {
       "name": "Chief Executive Officer",
-      "office": "CIO/COO",
       "positionName": "Christian Canacaris ",
       "children": [
         {
@@ -594,11 +593,14 @@
             }
           ]
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "profileUrl": "http://example.com/employee/profile"
     },
     {
       "name": "Vice-chairman of the MB",
-      "office": "CEO office",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "profileUrl": "http://example.com/employee/profile",
       "positionName": "Alexander Zsolnai",
       "children": [
         {
@@ -1351,7 +1353,8 @@
     },
     {
       "name": "MB Corporate & SE",
-      "office": "Board Member",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "profileUrl": "http://example.com/employee/profile",
       "positionName": "Elona Mullahi (Koçi)",
       "children": [
         {
@@ -1564,7 +1567,8 @@
     },
     {
       "name": "MB CIO/COO",
-      "office": "CIO/COO",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "profileUrl": "http://example.com/employee/profile",
       "positionName": "Egon Lerchster",
       "children": [
         {
@@ -2345,7 +2349,8 @@
     },
     {
       "name": "MB Retail",
-      "office": "CEO office",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "profileUrl": "http://example.com/employee/profile",
       "positionName": "Lyubomir Punchev",
       "children": [
         {
