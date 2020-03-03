@@ -14,10 +14,9 @@
   "children": [
     {
       "name": "Chief Executive Officer",
-      "area": "fg",
+      "area": "",
       "office": "",
       "tags": "CEO,Board Member",
-      "isLoggedUser": false,
       "unit": {
         "type": "business",
         "value": "Board Memebr"
