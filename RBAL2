@@ -14,9 +14,14 @@
   "children": [
     {
       "name": "Chief Executive Officer",
-      "area": "",
-      "office": "",
+      "area": "Board Member",
+      "office": "CIO/COO",
       "tags": "CEO,Board Member",
+      "isLoggedUser": false,
+      "unit": {
+        "type": "business",
+        "value": "Board Memebr"
+      },
       "positionName": "Christian Canacaris ",
       "children": [
         {
