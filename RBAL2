@@ -17,7 +17,10 @@
       "area": "",
       "office": "",
       "tags": "",
-      "isLoggedUser": false,
+      "unit": {
+        "type": "",
+        "value": ""
+      },
       "positionName": "Christian Canacaris ",
       "children": [
         {
