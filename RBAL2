@@ -14,11 +14,11 @@
   "children": [
     {
       "name": "Chief Executive Officer",
-      "area": "b",
+      "area": "m",
       "office": "",
       "tags": "",
       "unit": {
-        "value": ""
+        "type": ""
       },
       "positionName": "Christian Canacaris ",
       "children": [
