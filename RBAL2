@@ -34,8 +34,8 @@
           "tags": "",
           "isLoggedUser": false,
           "unit": {
-            "type": "",
-            "value": "",
+            "type": "department",
+            "value": "Business one",
             "desc": ""
           },
           "positionName": "",
