@@ -1461,7 +1461,7 @@
           "tags": "Ceo,tag1, tag2",
           "unit": {
             "type": "department",
-            "value": "Purchases Department",
+            "value": "Purchases Departmet",
             "desc": "Purchase Department Description"
           },
           "positionName": "Corporate Business Division",
@@ -1476,7 +1476,7 @@
               "isLoggedUser": false,
               "unit": {
                 "type": "department",
-                "value": "Purchases Department"
+                "value": "Purchases Departmet"
               },
               "positionName": " Department"
             },
@@ -1490,7 +1490,7 @@
               "isLoggedUser": false,
               "unit": {
                 "type": "department",
-                "value": "Purchases Department"
+                "value": "Purchases Departmet"
               },
               "positionName": "Department"
             },
@@ -1504,7 +1504,7 @@
               "isLoggedUser": false,
               "unit": {
                 "type": "department",
-                "value": "Purchases Department"
+                "value": "Purchases Departmet"
               },
               "positionName": " Unit"
             }
