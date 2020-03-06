@@ -13,9 +13,10 @@
   "positionName": "RBAL",
   "children": [
     {
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "profileUrl": "http://example.com/employee/profile",
       "name": "Chief Executive Officer",
       "area": "m",
-      "office": "",
       "tags": "",
       "unit": {
         "type": ""
@@ -599,9 +600,7 @@
             }
           ]
         }
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "profileUrl": "http://example.com/employee/profile"
+      ]
     },
     {
       "name": "Vice-chairman of the MB",
@@ -1611,7 +1610,7 @@
           "tags": "COO/CIO,IT,Structure",
           "unit": {
             "type": "Division",
-            "value": "B-1",
+            "value": "B-LEVEL",
             "desc": ""
           },
           "positionName": "IT Division",
