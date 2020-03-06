@@ -608,11 +608,10 @@
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "MB",
       "profileUrl": "http://example.com/employee/profile",
-      "office": "CEO office",
+      "office": "",
       "tags": "Board Member",
       "isLoggedUser": false,
       "unit": {
-        "type": "business",
         "value": "Business one"
       },
       "positionName": "Alexander Zsolnai",
@@ -1370,11 +1369,10 @@
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "Corporate",
       "profileUrl": "http://example.com/employee/profile",
-      "office": "Board Member",
+      "office": "",
       "tags": "Board Member,Corporate & SE",
       "isLoggedUser": false,
       "unit": {
-        "type": "business",
         "value": "Business two "
       },
       "positionName": "Elona Mullahi (Koçi)",
@@ -1592,7 +1590,7 @@
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "Operations & IT",
       "profileUrl": "http://example.com/employee/profile",
-      "office": "CIO/COO",
+      "office": "",
       "tags": "CIO/COO, Board Member",
       "isLoggedUser": false,
       "unit": {
