@@ -20,6 +20,7 @@
       "office": "",
       "tags": "CEO,Board Member",
       "unit": {
+        "type": "business",
         "value": "Business one"
       },
       "positionName": "Christian Canacaris ",
@@ -612,6 +613,7 @@
       "tags": "Board Member",
       "isLoggedUser": false,
       "unit": {
+        "type": "business",
         "value": "Business one"
       },
       "positionName": "Alexander Zsolnai",
